@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FancyTextGenerator": {
+      "commandName": "Project",
+      "commandLineArgs": "color C:\\Users\\pacis\\Downloads\\latest.png -fcol Red Green Blue -fgm f -cit 50 -snm modetestColor -fil C:\\Users\\pacis\\Downloads\\unknown-9.png"
+    }
+  }
+}
